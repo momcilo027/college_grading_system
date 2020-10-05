@@ -1,0 +1,354 @@
+body{
+  background: #303030;
+}
+.wlc{
+  background: #212121;
+  color: white;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.wlo{
+  background: #ffa500;
+  color: black;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.wlca{
+  background: green;
+  color: black;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.wlcp{
+  background: #018786;
+  color: white;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.wlcs{
+  background: #B00020;
+  color: white;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.chs{
+  background: #212121;
+  color: white;
+  margin-top: 60px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.profout{
+  border-radius: 25px;
+  background: #212121;
+  color: white;
+  padding: 80px;
+}
+.prof{
+  border-radius: 10px;
+  padding: 20px;
+  background: #018786;
+  color: white;
+}
+.prof a{
+  text-decoration: none;
+  color: white;
+}
+.prof a:hover{
+  text-decoration: none;
+  color: #212121;
+}
+
+.studout{
+  border-radius: 25px;
+  background: #212121;
+  color: white;
+  padding: 80px;
+}
+.stud{
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  background: #B00020;
+}
+.stud a{
+  text-decoration: none;
+  color: white;
+}
+.stud a:hover{
+  text-decoration: none;
+  color: #212121;
+}
+.admn{
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 5px;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+.admn:hover{
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 20px;
+  padding: 10px;
+  color: #212121;
+  background: #00b300;
+  text-decoration: none;
+}
+.sgn{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.sibtn{
+  background: #018786;
+  padding: 5px;
+  color: white;
+}
+.nb{
+  background: #424242 !important;
+  font-weight: bold !important;
+  color: white !important;
+}
+.nb a{
+  color: #212121 !important;
+}
+.nb a:hover{
+  color: white !important;
+}
+.nb a:active{
+  color: #018786 !important;
+}
+.pc{
+  color: #018786 !important;
+}
+.tsp{
+  font-weight: bold !important;
+}
+.tsp tbody tr:hover{
+  background: #018786 !important;
+  color: #212121 !important;
+}
+.tss tbody tr:hover{
+  background: #B00020 !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+.studpro{
+  padding: 20px;
+  color: white;
+  background: #B00020;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.chstud{
+  background: #212121;
+  color: white;
+  margin-top: 60px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.rrt{
+  text-align: right;
+}
+.ttbl{
+  text-align: center;
+}
+.tbbl table {
+  width: 100%;
+}
+.tbbl td {
+  font-size: 20px;
+  font-style: italic;
+}
+.tbbl th{
+  font-size: 20px;
+}
+.bgprofs{
+  color: white;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.ptbl tbody tr:hover{
+  background: white !important;
+  color: #212121 !important;
+  font-weight: bold !important;
+}
+.ptbl tbody tr{
+  font-weight: bold !important;
+}
+.ptbl thead{
+  background: #212121 !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+.srcc{
+  background: #212121;
+  color: #303030;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  border-radius: 100px;
+}
+.wtxt{
+  padding: 8px;
+  border-radius: 10px;
+  background: #212121;
+  color: white;
+}
+.bp{
+  border: solid 2px #018786;
+  color: #018786;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.bp:hover{
+  border: solid 2px white;
+  color: white;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.bs{
+  border: solid 2px #B00020;
+  color: #B00020;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.bs:hover{
+  border: solid 2px white;
+  color: white;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.lout{
+  color: white;
+}
+.lout:hover{
+  color:white;
+}
+.bss{
+  border: solid 2px white;
+  background: #303030!important;
+  font-weight: bold;
+  color: white;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.bss:hover{
+  border: solid 2px #B00020;
+  color: #B00020;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.stud_info td{
+  color: #B00020;
+}
+.bpp{
+  border: solid 2px white;
+  background: #303030!important;
+  color: white;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.bpp:hover{
+  border: solid 2px #018786;
+  color: #018786;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.bps{
+  border: solid 2px white;
+  color: white;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.bps:hover{
+  border: solid 2px #018786;
+  color: #018786;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.ssb{
+  border: solid 2px white;
+  background: #212121!important;
+  color: white;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  width: 100%;
+}
+.ssb:hover{
+  border: solid 2px white;
+  color: black;
+  background: white!important;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.subtbl tbody tr:hover{
+  background: #018786 !important;
+  color: #212121 !important;
+  font-weight: bold !important;
+}
+.subtbl tbody tr{
+  font-weight: bold !important;
+}
+.subtbl thead{
+  background: #212121 !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+.subtbl a{
+  color: white !important;
+  font-weight: bold !important;
+}
+.subtbl a:hover{
+  color: black !important;
+}
+.showall{
+  color: #018786 !important;
+  background: #303030 !important;
+}
+.showall:hover{
+  color: white !important;
+
+}
